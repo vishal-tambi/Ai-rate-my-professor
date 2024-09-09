@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Johnson's lectures are engaging and informative. She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant professor! His coding assignments are challenging but incredibly rewarding."
+      },
+      {
+        "professor": "Dr. Sarah Williams",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Decent lectures, but the workload can be overwhelming at times."
+      },
+      {
+        "professor": "Prof. Robert Garcia",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Garcia's passion for history is contagious. His anecdotes make the class very interesting."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Lectures are hard to follow. More practical examples would be helpful."
+      },
+      {
+        "professor": "Prof. David Brown",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Exceptional teacher. Makes even the most difficult concepts understandable."
+      },
+      {
+        "professor": "Dr. Lisa Taylor",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. Taylor's analysis of literary works is insightful. Assignments encourage critical thinking."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Knowledgeable, but sometimes moves too fast through complex topics."
+      },
+      {
+        "professor": "Dr. Maria Rodriguez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Engaging discussions and relevant case studies. Dr. Rodriguez is an inspiration."
+      },
+      {
+        "professor": "Prof. Thomas Anderson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Clear explanations of economic theories. Real-world applications are particularly useful."
+      },
+      {
+        "professor": "Dr. Jennifer Kim",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Interesting content, but the pace of the class can be slow at times."
+      },
+      {
+        "professor": "Prof. Alexander Petrov",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Thought-provoking lectures and debates. Prof. Petrov encourages diverse viewpoints."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Passionate about the subject. Field trips add great value to the learning experience."
+      },
+      {
+        "professor": "Prof. Daniel Lee",
+        "subject": "Music Theory",
+        "stars": 2,
+        "review": "Struggles to explain complex concepts. More practical exercises would be beneficial."
+      },
+      {
+        "professor": "Dr. Olivia Martinez",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Brilliant researcher and teacher. Dr. Martinez makes neuroscience accessible and exciting."
+      },
+      {
+        "professor": "Prof. William Chang",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Good theoretical knowledge, but could use more real-world business examples."
+      },
+      {
+        "professor": "Dr. Emma Thompson",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Fascinating course content. Dr. Thompson's enthusiasm for languages is infectious."
+      },
+      {
+        "professor": "Prof. Samuel Okafor",
+        "subject": "African Studies",
+        "stars": 5,
+        "review": "Incredibly knowledgeable. Prof. Okafor provides a comprehensive view of African history and culture."
+      },
+      {
+        "professor": "Dr. Sophia Müller",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Challenging but rewarding classes. Dr. Müller encourages deep, critical thinking."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Solid foundational knowledge, but could incorporate more current marketing trends."
+      }
+    ]
+  }
